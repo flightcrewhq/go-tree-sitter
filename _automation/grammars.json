@@ -16,8 +16,8 @@
     "files": [
       "parser.c"
     ],
-    "reference": "v0.20.2",
-    "revision": "7175a6dd5fc1cee660dce6fe23f6043d75af424a",
+    "reference": "v0.21.4",
+    "revision": "deca017a554045b4c203e7ddff39ae64ff05e071",
     "updateBasedOn": "tag"
   },
   {
@@ -38,8 +38,8 @@
       "parser.c",
       "scanner.c"
     ],
-    "reference": "v0.22.0",
-    "revision": "72fd00128f1c38319670cbf4bcedbba0dc849d96",
+    "reference": "v0.22.2",
+    "revision": "9d412ba7e597fe158f209da33e60f31b1f0df967",
     "updateBasedOn": "tag"
   },
   {
@@ -49,8 +49,8 @@
       "parser.c",
       "scanner.c"
     ],
-    "reference": "v0.20.0",
-    "revision": "98c7b3dceb24f1ee17f1322f3947e55638251c37",
+    "reference": "v0.21.0",
+    "revision": "2e868a75a518531656b493cba36ef60d8c61cc89",
     "updateBasedOn": "tag"
   },
   {
@@ -61,7 +61,7 @@
       "scanner.c"
     ],
     "reference": "main",
-    "revision": "61843e3beebf19417e4fede4e8be4df1084317ad",
+    "revision": "8a5f273bfa281c66354da562f2307c2d394b6c81",
     "updateBasedOn": "commit"
   },
   {
@@ -70,8 +70,8 @@
     "files": [
       "parser.c"
     ],
-    "reference": "v0.1.2",
-    "revision": "d34a0cebd094e830bdd2106a28cb2f1fb22401d8",
+    "reference": "v0.2.0",
+    "revision": "868e44ce378deb68aac902a9db68ff82d2299dd0",
     "updateBasedOn": "tag"
   },
   {
@@ -103,7 +103,7 @@
       "parser.c"
     ],
     "reference": "master",
-    "revision": "eb68645662a3f7bf7fdd4bcb9531585f54c8570e",
+    "revision": "7ee8d928db5202f6831a78f8112fd693bf69f98b",
     "updateBasedOn": "commit"
   },
   {
@@ -119,13 +119,13 @@
   },
   {
     "language": "hcl",
-    "url": "https://github.com/MichaHoffmann/tree-sitter-hcl",
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-hcl",
     "files": [
       "parser.c",
       "scanner.c"
     ],
     "reference": "main",
-    "revision": "b5539065432c08e4118eb3ee7c94902fdda85708",
+    "revision": "422cbe1d93a8ae3847744b664041fc76876babcd",
     "updateBasedOn": "commit"
   },
   {
@@ -136,8 +136,8 @@
       "scanner.c",
       "tag.h"
     ],
-    "reference": "v0.20.2",
-    "revision": "4e5f3345f74cda667ee8dd94b17184a592ce0374",
+    "reference": "v0.20.3",
+    "revision": "e4d834eb4918df01dcad5c27d1b15d56e3bd94cd",
     "updateBasedOn": "tag"
   },
   {
@@ -157,8 +157,8 @@
       "parser.c",
       "scanner.c"
     ],
-    "reference": "v0.21.0",
-    "revision": "d9b3a5841bd8f05e15db0748848ef3f5af5b5b44",
+    "reference": "v0.21.3",
+    "revision": "a5de24dc7939cb07a758f8d89c089cfdb6f479aa",
     "updateBasedOn": "tag"
   },
   {
@@ -168,8 +168,8 @@
       "parser.c",
       "scanner.c"
     ],
-    "reference": "0.3.5",
-    "revision": "51e451be6c18e2cc123249f49edf8e26fc50311c",
+    "reference": "0.3.6",
+    "revision": "d5dc99a9bdc3fe895e6bcd39caddcfa4820f4c03",
     "updateBasedOn": "tag"
   },
   {
@@ -203,8 +203,8 @@
       "scanner.c",
       "scanner.h"
     ],
-    "reference": "v0.22.4",
-    "revision": "58054be104db0809ea6f119514a4d904f95e5b5c",
+    "reference": "v0.22.5",
+    "revision": "b38c53537769df05871643c9688c264074fb6076",
     "updateBasedOn": "tag"
   },
   {
@@ -235,8 +235,8 @@
       "parser.c",
       "scanner.c"
     ],
-    "reference": "v0.20.1",
-    "revision": "7a010836b74351855148818d5cb8170dc4df8e6a",
+    "reference": "v0.21.0",
+    "revision": "a8eed3d73379528caa9310b20b69fd3c22dcecc7",
     "updateBasedOn": "tag"
   },
   {
@@ -246,8 +246,8 @@
       "parser.c",
       "scanner.c"
     ],
-    "reference": "v0.21.0",
-    "revision": "473634230435c18033384bebaa6d6a17c2523281",
+    "reference": "v0.21.2",
+    "revision": "04352146022062c101b8ddd853adf17eadd8cf56",
     "updateBasedOn": "tag"
   },
   {
@@ -285,8 +285,8 @@
       "parser.c",
       "scanner.c"
     ],
-    "reference": "0.4.3-with-generated-files",
-    "revision": "caa99d7d3c14aac03b5f16fc86fedf8755570760",
+    "reference": "0.5.0-with-generated-files",
+    "revision": "57c1c6d6ffa1c44b330182d41717e6fe37430704",
     "updateBasedOn": "tag"
   },
   {
@@ -307,8 +307,8 @@
       "parser.c",
       "scanner.c"
     ],
-    "reference": "v0.20.6",
-    "revision": "b00b8eb44f0b9f02556da0b1a4e2f71faed7e61b",
+    "reference": "v0.21.1",
+    "revision": "7b4275d077ae196fc0ce42ab3ad091574e3ec519",
     "updateBasedOn": "tag"
   },
   {
